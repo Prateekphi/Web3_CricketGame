@@ -16,7 +16,7 @@ Solidity code for Web3 based Computer version of conventional Hand Cricket Game
 <h3> Work Details </h3>
 <li>Created and Tested code in Remix Ethereum IDE</li>
 <li>Choosing the solidity plugin</li>
-<li>Here Solidity code (.sol) and (.json) file of all transactions is uploaded in the repository</li>
+<li>Here Solidity code <b>(one.sol)</b> and <b>(scenario.json)</b> file of all transactions is uploaded in the repository</li>
 
 <h4>Workspace</h4>
 <img src="https://github.com/Prateekphi/Web3_CricketGame/blob/master/screenshots/workspace.png" width="500" height="650">
