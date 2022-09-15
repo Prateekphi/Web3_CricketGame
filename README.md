@@ -32,8 +32,8 @@ Solidity code for Web3 based Computer version of conventional Hand Cricket Game
 <h4 align="center">Deploy and Run ____________  Deployed Contracts</h4>
 
 <p float="left">
-  <img src="https://github.com/Prateekphi/Web3_CricketGame/blob/master/screenshots/DeployAndRun.png" width="503" height="650">
-  <img src="https://github.com/Prateekphi/Web3_CricketGame/blob/master/screenshots/DeployedContracts.png" width="503" height="650">
+  <img src="https://github.com/Prateekphi/Web3_CricketGame/blob/master/screenshots/DeployAndRun.png" width="400" height="500">
+  <img src="https://github.com/Prateekphi/Web3_CricketGame/blob/master/screenshots/DeployedContracts.png" width="400" height="500">
 </p>
     
     
