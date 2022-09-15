@@ -5,8 +5,8 @@ Solidity code for Web3 based Computer version of conventional Hand Cricket Game
 <ul>
   <li>There is a method which takes input from user i.e., a number between 0 to 6.
     <ul>
-      <li>0 commands to stop game.</li>
-      <li>1 - 6 are the runs.</li>
+      <li>(0) gives command to stop game.</li>
+      <li>(1 - 6) are runs.</li>
     </ul>
   </li>
   <li>Computer is batsman who randomly guesses a number and if it is same with the number you feed as input computer is out, otherwise computer hits run of number guessed by computer and score increases by that number</li>
